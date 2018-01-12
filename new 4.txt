@@ -1,0 +1,23 @@
+lena512color.tiff - 12 - 1
+mel.jpg - 11 - 1
+tigre.jpg - 21 - 1
+autumn.tif - 13 - 0
+katrina.tif - 9 - 0
+
+cor - marcação dos ratos
+wd - ???
+minutos - tempo de experimento
+trials quantas o rato sensor infra
+PC - taxa de acerto total (%) baseado em TODOS  os experimentos que fizeram o tal rato
+SPK - ???(spike)  
+SPK_data_right - spike em que o rato acertou
+
+tabela
+1- coluna do sorted
+2- Amostras do experimento onde o rato acertou
+
+laser - marca o exato trigtime
+python
+miniconda
+resto das coisas
+
